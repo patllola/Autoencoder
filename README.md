@@ -30,7 +30,7 @@ pip install tensorflow matplotlib
 
 ## Getting Started
 Clone this repository to your local machine:
-git clone https://github.com/your-username/autoencoder-image-prediction.git
+git clone https://github.com/patllola/autoencoder-image-prediction.git
 
 ### Usage
 To use this autoencoder for image prediction and enlargement, follow these steps:
